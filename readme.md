@@ -1,4 +1,4 @@
-# Lumen (5.4.15)
+# Laravel (5.4.15)
 laravel を使ってみる。
 
 ※ Laravel 5.4*
@@ -13,7 +13,7 @@ https://laravel.com/docs/5.4
 * XML PHP Extension
 
 
-## Lumenをインストールする
+## Laravelをインストールする
 
 GitBucketからコードをクローンし、composerを使ってLumen本体と各種ライブラリを配置します。
 
@@ -21,13 +21,13 @@ GitBucketからコードをクローンし、composerを使ってLumen本体と�
 
 **開発環境の場合)**
 ```
-$ git clone git@bitbucket.org:reflet/app-laravel.git .
+$ git clone https://github.com/reflet/app-laravel5.4.git .
 $ composer create-project
 ```
 ※ 環境設定ファイル「.env」が自動作成されます。
 
 **本番環境の場合**
 ```
-$ git clone git@bitbucket.org:reflet/app-lumen.git .
+$ git clone https://github.com/reflet/app-laravel5.4.git .
 $ composer install
 ```
