@@ -15,7 +15,7 @@ https://laravel.com/docs/5.4
 
 ## Laravelをインストールする
 
-GitBucketからコードをクローンし、composerを使ってLumen本体と各種ライブラリを配置します。
+Githubからコードをクローンし、composerを使ってLaravel本体と各種ライブラリを配置します。
 
 ※ vendorフォルダ内にインストールされます。
 
