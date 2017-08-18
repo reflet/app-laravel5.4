@@ -1,4 +1,4 @@
-# Laravel (5.4.15)
+# Laravel (5.4.33)
 laravel を使ってみる。
 
 ※ Laravel 5.4*
