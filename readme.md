@@ -29,5 +29,5 @@ $ composer create-project
 **本番環境の場合**
 ```
 $ git clone https://github.com/reflet/app-laravel5.4.git .
-$ composer install
+$ composer install --no-dev
 ```
