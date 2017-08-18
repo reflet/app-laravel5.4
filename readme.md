@@ -31,3 +31,17 @@ $ composer create-project
 $ git clone https://github.com/reflet/app-laravel5.4.git .
 $ composer install --no-dev
 ```
+
+## Laravelのバージョン確認
+
+```
+$ php artisan --version
+Laravel Framework 5.4.33
+```
+
+## Composerを使って各種ライブラリをアップグレードする
+
+```
+$ php composer.phar self-update
+$ php composer.phar update
+```
